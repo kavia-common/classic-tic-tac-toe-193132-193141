@@ -1,0 +1,4 @@
+{
+    "command": "SERVER_PORT=<port> SERVER_ADDRESS=<host> ./gradlew bootRun",
+    "working_directory": "/tmp/kavia/workspace/code-generation/classic-tic-tac-toe-193132-193141/tic_tac_toe_backend"
+}
